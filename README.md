@@ -1,0 +1,1 @@
+This is Leo's first git project! (Finally! Let's do it, The Odin Project!)
